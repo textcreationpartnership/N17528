@@ -125,8 +125,8 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:022684_0000_0FB9FB98B6160220"/>
-            <pb facs="tcp:022684_0001_0FB9FB9A45752FB0"/>
+            <pb facs="unknown:022684_0000_0FB9FB98B6160220"/>
+            <pb facs="unknown:022684_0001_0FB9FB9A45752FB0"/>
             <p>
                <figure>
                   <head>
@@ -139,7 +139,7 @@
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:022684_0002_0FB9FB9BE7521210"/>
+            <pb facs="unknown:022684_0002_0FB9FB9BE7521210"/>
             <p>OUÂBI: OR THE VIRTUES OF NATURE. AN INDIAN TALE. IN FOUR CANTOS.</p>
             <p>BY PHILENIA, a LADY of BOSTON.</p>
             <q>
@@ -149,7 +149,7 @@
             <p>PRINTED AT <hi>BOSTON.</hi> BY I. THOMAS AND E. T. ANDREWS, At <hi>FAUST's</hi> STATUE, No. 45, Newbury Street. MDCCXC.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:022684_0003_0FB9FBA6B7D8D060"/>
+            <pb facs="unknown:022684_0003_0FB9FBA6B7D8D060"/>
             <head>TO THE Hon. JAMES BOWDOIN, <abbr>Esq.</abbr> L. L. D. F. R. S. PRESIDENT of the AMERICAN ACADEMY of ARTS and SCIENCES, and late GOVERNOR of the COMMONWEALTH of MASSACHUSETTS.</head>
             <opener>
                <salute>SIR,</salute>
@@ -166,7 +166,7 @@
             </closer>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:022684_0004_0FB9FBA9F00E2B78"/>
+            <pb facs="unknown:022684_0004_0FB9FBA9F00E2B78"/>
             <p>AS the Dedication was accepted, and approved, by the respectable character, to whom it was addressed, and in the press, previous to the unfortunate event, which deprived science and mankind of that orna<g ref="char:EOLhyphen"/>ment to both, the author is induced, rather from a sentiment of <hi>pro<g ref="char:EOLhyphen"/>priety</hi> than <hi>vanity,</hi> to insert the following Note, the last effort of a mind, the faculties of which were never impaired.</p>
             <p>"Mr. BOWDOIN this morning had the pleasure of receiving Mrs."—'s very polite billet, accompanied with a manuscript Poem, "entitled, <hi>"The Virtues of Nature."</hi>
             </p>
@@ -184,7 +184,7 @@
             </closer>
          </div>
          <div type="introduction">
-            <pb facs="tcp:022684_0005_0FB9FBAB70393AE8"/>
+            <pb facs="unknown:022684_0005_0FB9FBAB70393AE8"/>
             <head>INTRODUCTION.</head>
             <p>
                <hi>FROM an idea of being original in my subject, I was induced to undertake the following Tale. The manners and cus<g ref="char:EOLhyphen"/>toms of the</hi> Aborigines <hi>of North America are so limited and sim<g ref="char:EOLhyphen"/>ple, that they have scarcely engaged the attention either of the Phi<g ref="char:EOLhyphen"/>losopher or the Poet. Acquainted with some of their interesting ceremonies from tradition, I became desirous of gaining further in<g ref="char:EOLhyphen"/>telligence, and gratefully acknowledge myself indebted to the obliging communications of General</hi> LINCOLN, <hi>for most of the local rites and customs alluded to, where I have not quoted any other authority. The opportunity his public commission, in the late negociations be<g ref="char:EOLhyphen"/>tween the United States and the Southern Indians, has afforded him to acquire the best information, added to the respectability of his character, will render his authority unquestioned.</hi>
@@ -199,7 +199,7 @@
                <hi>It may perhaps be objected, that I have given my favourite</hi> Ouâbi, <hi>a degree of insensibility, with respect to the love of</hi> Celario, <hi>incompatible with the greatness and superiority of his character: To this I reply, that the mind, unpracticed in deception, can nev<g ref="char:EOLhyphen"/>er be capable of suspicion; and that not having known the Euro<g ref="char:EOLhyphen"/>pean vices, he could have no idea of their existence.</hi>
             </p>
             <p>
-               <pb n="vi" facs="tcp:022684_0006_0FB9FBB183445978"/>
+               <pb n="vi" facs="unknown:022684_0006_0FB9FBB183445978"/>
                <hi>It may also be imagined, that, considering the exalted virtue and resolution of</hi> Azâkia, <hi>which could lead her even to death for the man, to whom she was contracted, her ready compliance with the proposition of</hi> Ouâbi, <hi>and the joy she evinces on that occasion, form an unpardonable contradiction; but it must be remembered, that from the customs and laws of every country its manners and morals are derived.</hi> Azâkia, <hi>bound to her husband by every tie, would not deceive him; but when he expressed a wish to resign her, she could have no idea of his insincerity; so much is</hi> truth <hi>the characteristic of a state of nature: It then became a duty, a</hi> virtue, <hi>to pursue the first wish of her heart.</hi>
             </p>
             <p>
@@ -210,18 +210,18 @@
             </p>
             <p>
                <hi>Should any be induced to think that I have given too many perfections to a rude uncultivated savage, let them read the fol<g ref="char:EOLhyphen"/>lowing
-<pb n="vii" facs="tcp:022684_0007_0FB9FBB4A76C9720"/>
+<pb n="vii" facs="unknown:022684_0007_0FB9FBB4A76C9720"/>
 apostrophe by a celebrated French author.</hi>
                <note n="*" place="bottom">M. Mercier.</note> "I glanced my eye rapidly over the scene, and in a vast country, to us hitherto unknown, I saw a naked Indian, having nothing but God and nature above him, enjoying the benefits which offer, without analysing them. His body was supple and robust, his eye lively and piercing, his ear attentive, in his deportment a certain air of haughtiness, of which we have no kind of idea in our degenerate climate. He seems even more graceful and majestic when beside his female compan<g ref="char:EOLhyphen"/>ion, his eye is milder, his countenance more serene." <hi>But the authority by which I have been influenced, and from which I feel myself justified, is</hi> William Penn, <hi>founder of Pennsylvania, whose manners and principles could not admit of exaggeration, or extravagancy of expression. In his letters to his friends in Eng<g ref="char:EOLhyphen"/>land, he describes the North-American Indians in the following terms.</hi> "For their persons they are generally tall, straight, well built, and of singular proportion: they tread strong and clever, and mostly walk with a lofty chin: the thick lip and flat nose, so frequent with the East-Indians and blacks, are not common with them; for I have seen as comely, European-like faces among them of both sexes, as on your side the sea. And truly an Italian complexion hath not much more of the white, and the noses of several have as much of the Roman."</p>
             <p>"They are great concealers of their own resentment, but in liberality they excel; nothing is too good for their friend. Their government is by kings; every king has his coun<g ref="char:EOLhyphen"/>cil, and that consists of all the old and wise men of his na<g ref="char:EOLhyphen"/>tion; nothing of moment is undertaken without advising with them, and what is more, with the young men too. It is admirable to consider how powerful their kings are, and yet how they move by the breath of the people. I have
-<pb n="viii" facs="tcp:022684_0008_0FB9FBB60DF51308"/>
+<pb n="viii" facs="unknown:022684_0008_0FB9FBB60DF51308"/>
 had occasion to be in council with them; while any one spoke, not a man of them was observed to whisper or smile, the old grave, the young reverend, in their deportment; they speak little, but fervently, and with elegance; I have never seen more natural sagacity, considering them without the help (I was going to say the spoil) of tradition." <hi>Sanc<g ref="char:EOLhyphen"/>tioned by such authorities I flatter myself, allowing for the justifi<g ref="char:EOLhyphen"/>able embellishments of poetry, that I shall not be considered an en<g ref="char:EOLhyphen"/>thusiast in my descriptions. The liberal reader will, I trust, make many allowances for the various imperfections of the work, from a consideration of my sex and situation; the one by education inci<g ref="char:EOLhyphen"/>dent to weakness, the other from duty devoted to domestic avoca<g ref="char:EOLhyphen"/>tions. And I am induced to hope, that the attempting a subject wholly American will in some respect entitle me to the partial eye of the patriot; that, as a young author, I shall be received with tenderness, and, as an involuntary one, be criticised with candor.</hi>
             </p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:022684_0009_0FB9FBB767E38088"/>
+            <pb facs="unknown:022684_0009_0FB9FBB767E38088"/>
             <head>AN INDIAN TALE.</head>
             <div n="1" type="canto">
                <head>CANTO I.</head>
@@ -238,7 +238,7 @@ had occasion to be in council with them; while any one spoke, not a man of them 
                   <l>The savage warrior, and the lonely stream.</l>
                </lg>
                <lg>
-                  <pb n="10" facs="tcp:022684_0010_0FB9FBB90117B960"/>
+                  <pb n="10" facs="unknown:022684_0010_0FB9FBB90117B960"/>
                   <l>Where MISSISIPPI<note n="*" place="bottom">
                         <hi>Missisippi,</hi> an Indian name, signifying the great father of rivers. It is subject to no tides, but from its source in the north of the American Continent flows with rapid force, till it empties itself into the Gulph of Mexico.</note> rolls his <hi>parent flood</hi>
                   </l>
@@ -273,7 +273,7 @@ had occasion to be in council with them; while any one spoke, not a man of them 
                   <l>Or charm him by the magic of her tongue.</l>
                </lg>
                <lg>
-                  <pb n="11" facs="tcp:022684_0011_0FB9FBBA69EF07F8"/>
+                  <pb n="11" facs="unknown:022684_0011_0FB9FBBA69EF07F8"/>
                   <l>Soon as <hi>Celario</hi> view'd the murd'rous scene,</l>
                   <l>Quick from his vest the deathful tube he drew;</l>
                   <l>Its leaden vengeance thunder'd o'er the green,</l>
@@ -313,7 +313,7 @@ had occasion to be in council with them; while any one spoke, not a man of them 
                      </l>
                      <l>AZÂKIA trembles at thy pow'r;</l>
                      <l>
-                        <pb n="12" facs="tcp:022684_0012_0FB9FBBC08060808"/>
+                        <pb n="12" facs="unknown:022684_0012_0FB9FBBC08060808"/>
 While from thy hand the thunders roll,</l>
                      <l>Thy charms with lightnings pierce the soul;</l>
                      <l>Ah! how unlike our sable race,</l>
@@ -348,7 +348,7 @@ While from thy hand the thunders roll,</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="13" facs="tcp:022684_0013_0FB9FBC507A8A5C8"/>
+                  <pb n="13" facs="unknown:022684_0013_0FB9FBC507A8A5C8"/>
                   <speaker>SHE.</speaker>
                   <lg>
                      <l>See a graceful form arise!<note n="*" place="bottom">The Indian women of America are very chaste after marriage, and if any person makes love to them, they answer, <hi>"The Friend that is be<g ref="char:EOLhyphen"/>fore my eyes, prevents my seeing you."</hi>
@@ -387,7 +387,7 @@ While from thy hand the thunders roll,</l>
                   <l>And midst the green with graceful silence bend.</l>
                </lg>
                <lg>
-                  <pb n="14" facs="tcp:022684_0014_0FB9FBC660C144E8"/>
+                  <pb n="14" facs="unknown:022684_0014_0FB9FBC660C144E8"/>
                   <l>Far o'er the chieftains great <hi>Ouâbi</hi> moves,</l>
                   <l>With step majestic thro the boundless plain;</l>
                   <l>Thus tow'rs the cedar o'er the willow-groves,</l>
@@ -425,7 +425,7 @@ While from thy hand the thunders roll,</l>
                   <l>Sooth'd ev'ry grief, and proffer'd ev'ry care.</l>
                </lg>
                <lg>
-                  <pb n="15" facs="tcp:022684_0015_0FB9FBC7E842CB10"/>
+                  <pb n="15" facs="unknown:022684_0015_0FB9FBC7E842CB10"/>
                   <l>When young <hi>Celario,</hi> breathing many a sigh,</l>
                   <l>Disclos'd the warring tumults of his breast,</l>
                   <l>Low on the ground reclin'd his pensive eye,</l>
@@ -459,7 +459,7 @@ While from thy hand the thunders roll,</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="16" facs="tcp:022684_0016_0FB9FBD2D86F2080"/>
+                  <pb n="16" facs="unknown:022684_0016_0FB9FBD2D86F2080"/>
                   <speaker>OUÂBI.</speaker>
                   <lg>
                      <l>May the endless Source of Good,</l>
@@ -491,7 +491,7 @@ While from thy hand the thunders roll,</l>
                      <l>On each bliss, that nature knows.</l>
                   </lg>
                   <lg>
-                     <pb n="17" facs="tcp:022684_0017_0FB9FBD49F703BA8"/>
+                     <pb n="17" facs="unknown:022684_0017_0FB9FBD49F703BA8"/>
                      <l>Say what crimes thy realms disgrace?</l>
                      <l>Do the natives shun the chase?</l>
                      <l>Do they fear to bend the bow?</l>
@@ -541,7 +541,7 @@ While from thy hand the thunders roll,</l>
                      <l>These are foes I leave behind,</l>
                      <l>These the TRAITORS of the mind,</l>
                      <l>
-                        <pb n="18" facs="tcp:022684_0018_0FB9FBD9A2C08BA0"/>
+                        <pb n="18" facs="unknown:022684_0018_0FB9FBD9A2C08BA0"/>
 Dreadful as the battle's roar,</l>
                      <l>Fearful as the conq'ror's pow'r.</l>
                   </lg>
@@ -582,7 +582,7 @@ Dreadful as the battle's roar,</l>
                   <l>Nor mingling with the beauties of his face.</l>
                </lg>
                <lg>
-                  <pb n="19" facs="tcp:022684_0019_0FB9FBDFF30F59A0"/>
+                  <pb n="19" facs="unknown:022684_0019_0FB9FBDFF30F59A0"/>
                   <l>Dress'd like a sachem—o'er his naked arm</l>
                   <l>With careless ease reclin'd his <hi>gaudy</hi>
                      <note n="*" place="bottom">Their bows are stained with a great variety of glaring colours, and otherwise-ornamented. For a specimen see the Museum of the Univers<g ref="char:EOLhyphen"/>ity at Cambridge.</note> 
@@ -622,7 +622,7 @@ Dreadful as the battle's roar,</l>
                   <l>And drank the living current of his blood.</l>
                </lg>
                <lg>
-                  <pb n="20" facs="tcp:022684_0020_0FB9FBE2ED98DDE8"/>
+                  <pb n="20" facs="unknown:022684_0020_0FB9FBE2ED98DDE8"/>
                   <l>While from the wound the barbed shaft is drawn,</l>
                   <l>O'er his fair side the drops of crimson glow,</l>
                   <l>And seem lost rubies on a wint'ry lawn,</l>
@@ -654,7 +654,7 @@ Dreadful as the battle's roar,</l>
                         </gap>liam Penn, have a remedy for almost every disease, to which they are subject. They have certain antidotes to all venomous bites, and it is said an in<g ref="char:EOLhyphen"/>fallible cure for cancers.</note> the weedy desert roam.</l>
                </lg>
                <lg>
-                  <pb n="21" facs="tcp:022684_0021_0FB9FBE81D5B2300"/>
+                  <pb n="21" facs="unknown:022684_0021_0FB9FBE81D5B2300"/>
                   <l>
                      <hi>Azâkia's</hi> hand the chymic juice applies,</l>
                   <l>Her constant aid the strength'ning food prepares,</l>
@@ -688,7 +688,7 @@ Dreadful as the battle's roar,</l>
                </lg>
             </div>
             <div n="2" type="canto">
-               <pb n="22" facs="tcp:022684_0022_0FB9FBEDB073DEA0"/>
+               <pb n="22" facs="unknown:022684_0022_0FB9FBEDB073DEA0"/>
                <head>CANTO II.</head>
                <lg>
                   <l>WHAT time red <hi>Sirius</hi> sheds his baneful pow'r,</l>
@@ -724,7 +724,7 @@ Dreadful as the battle's roar,</l>
                   <l>And dwells enraptur'd on each glowing charm:</l>
                </lg>
                <lg>
-                  <pb n="23" facs="tcp:022684_0023_0FB9FBEF0B182DF0"/>
+                  <pb n="23" facs="unknown:022684_0023_0FB9FBEF0B182DF0"/>
                   <l>Till, quite regardless of <hi>Ouâbi's</hi> name,</l>
                   <l>His yielding soul to desp'rate love resign'd,</l>
                   <l>Urg'd with insidious voice his daring flame,</l>
@@ -766,7 +766,7 @@ Dreadful as the battle's roar,</l>
                         <hi>Will</hi> the bee forsake her hive?</l>
                      <l>In the peopled wigwam thrive?</l>
                      <l>
-                        <pb n="24" facs="tcp:022684_0024_0FB9FBF094CC4B88"/>
+                        <pb n="24" facs="unknown:022684_0024_0FB9FBF094CC4B88"/>
                         <hi>Can Azâkia</hi> ever prove,</l>
                      <l>Guardless of <hi>Ouâbi's</hi> love!</l>
                      <l>While the <hi>shivers from the tree,</hi>
@@ -796,7 +796,7 @@ Dreadful as the battle's roar,</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="25" facs="tcp:022684_0025_0FB9FBF8E5452B10"/>
+                  <pb n="25" facs="unknown:022684_0025_0FB9FBF8E5452B10"/>
                   <speaker>CELAIRO.</speaker>
                   <lg>
                      <l>All the turtle's charms are thine,</l>
@@ -833,7 +833,7 @@ Dreadful as the battle's roar,</l>
                      <l>Tho' to great <hi>Ouâbi</hi> true,</l>
                      <l>Yet this soul resides with you;</l>
                      <l>
-                        <pb n="26" facs="tcp:022684_0026_0FB9FBFADFC8BFD0"/>
+                        <pb n="26" facs="unknown:022684_0026_0FB9FBFADFC8BFD0"/>
 Still will follow all thy care,</l>
                      <l>While the body wastes to air.</l>
                      <l>Not the golden source of light,</l>
@@ -874,7 +874,7 @@ Still will follow all thy care,</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="27" facs="tcp:022684_0027_0FB9FBFC6A01AD68"/>
+                  <pb n="27" facs="unknown:022684_0027_0FB9FBFC6A01AD68"/>
                   <speaker>OUÂBI.</speaker>
                   <lg>
                      <l>Dear youth, by bounteous nature blest,</l>
@@ -916,7 +916,7 @@ Still will follow all thy care,</l>
                         <hi>Open friendship's</hi> gen'rous care,</l>
                      <l>EV'RY BOON OF LIFE IS HERE!</l>
                      <l>
-                        <pb n="28" facs="tcp:022684_0028_0FB9FC0672384AF0"/>
+                        <pb n="28" facs="unknown:022684_0028_0FB9FC0672384AF0"/>
 Yet this heart, to grief a prey,</l>
                      <l>Loaths the morning's purple ray,</l>
                      <l>And the azure hour of rest</l>
@@ -952,7 +952,7 @@ Yet this heart, to grief a prey,</l>
                   <l>And calms his stormy passions into rest.</l>
                </lg>
                <lg>
-                  <pb n="29" facs="tcp:022684_0029_0FB9FC0863313F30"/>
+                  <pb n="29" facs="unknown:022684_0029_0FB9FC0863313F30"/>
                   <l>Now the brave hero seeks the distant foe,</l>
                   <l>And leads his warriors with unequall'd grace,</l>
                   <l>Adorn'd with paint their martial bodies glow,</l>
@@ -989,7 +989,7 @@ Yet this heart, to grief a prey,</l>
                   <l>With bright <hi>Azâkia</hi> shone the rising maid.</l>
                </lg>
                <lg>
-                  <pb n="30" facs="tcp:022684_0030_0FB9FC0A04BE4B60"/>
+                  <pb n="30" facs="unknown:022684_0030_0FB9FC0A04BE4B60"/>
                   <l>To the fair stranger gentle <hi>Zisma</hi> flies,</l>
                   <l>Prevents each wish, each luxury prepares,</l>
                   <l>Dwells on his beauties with unweari'd eyes,</l>
@@ -1015,7 +1015,7 @@ Yet this heart, to grief a prey,</l>
                </lg>
             </div>
             <div n="3" type="canto">
-               <pb n="31" facs="tcp:022684_0031_0FB9FC2203529218"/>
+               <pb n="31" facs="unknown:022684_0031_0FB9FC2203529218"/>
                <head>CANTO III.</head>
                <lg>
                   <l>JUST as the sun awak'd the dewy morn,</l>
@@ -1049,7 +1049,7 @@ Yet this heart, to grief a prey,</l>
                   <l>O'erpow'r'd by numbers sunk amidst the slain.</l>
                </lg>
                <lg>
-                  <pb n="32" facs="tcp:022684_0032_0FB9FC29E73B0F70"/>
+                  <pb n="32" facs="unknown:022684_0032_0FB9FC29E73B0F70"/>
                   <l>One equal fate the victor-foes impart,</l>
                   <l>For the <hi>pure town</hi>
                      <note n="*" place="bottom">The <hi>pure</hi> or <hi>white towns</hi> are places of refuge, in which no blood is ever permitted to be spilt; even criminals are there protected.</note>in vain the vanquish'd bend,</l>
@@ -1086,7 +1086,7 @@ Yet this heart, to grief a prey,</l>
                   <l>The moon's pale radiance, and the shaded stream.</l>
                </lg>
                <lg>
-                  <pb n="33" facs="tcp:022684_0033_0FB9FC2BAF4A0C70"/>
+                  <pb n="33" facs="unknown:022684_0033_0FB9FC2BAF4A0C70"/>
                   <l>Not deeper anguish rends the promis'd bride,</l>
                   <l>If death relentless lifts his ebon dart,</l>
                   <l>And tears her youthful lover from her side,</l>
@@ -1124,7 +1124,7 @@ Yet this heart, to grief a prey,</l>
                      <l>And 'gainst the <hi>good</hi> the <hi>bad</hi> arise,<note n="†" place="bottom">The American Indians believe, that an eclipse of the sun is occa<g ref="char:EOLhyphen"/>sioned by a contention, between the good and evil spirit; and as light finally prevails, they suppose the good spirit is always victorious.</note>
                      </l>
                      <l>
-                        <pb n="34" facs="tcp:022684_0034_0FB9FC2D5FA7B6C8"/>
+                        <pb n="34" facs="unknown:022684_0034_0FB9FC2D5FA7B6C8"/>
 The golden orb, which lights the day,</l>
                      <l>Withdraws its clear refulgent ray,</l>
                      <l>'Till GOODNESS gains his native throne,</l>
@@ -1163,7 +1163,7 @@ The golden orb, which lights the day,</l>
                      <l>Would that <hi>bright soul</hi> its bliss resign,</l>
                      <l>To give a lasting stab to mine!</l>
                      <l>
-                        <pb n="35" facs="tcp:022684_0035_0FB9FC3540774728"/>
+                        <pb n="35" facs="unknown:022684_0035_0FB9FC3540774728"/>
 How could the wretch, who caus'd thy pain,</l>
                      <l>Know when the glorious chief was slain?</l>
                      <l>Perhaps, the victors' triumph made,</l>
@@ -1200,7 +1200,7 @@ How could the wretch, who caus'd thy pain,</l>
                   </lg>
                </sp>
                <lg>
-                  <pb n="36" facs="tcp:022684_0036_0FB9FC36E35CE6F8"/>
+                  <pb n="36" facs="unknown:022684_0036_0FB9FC36E35CE6F8"/>
                   <l>Charm'd by her accents, from her sight he speeds,</l>
                   <l>Swift as the falcon darting on the prey,</l>
                   <l>With the <hi>red train</hi>
@@ -1240,7 +1240,7 @@ How could the wretch, who caus'd thy pain,</l>
                   <l>No cry of mercy trembles on his tongue.</l>
                </lg>
                <lg>
-                  <pb n="37" facs="tcp:022684_0037_0FB9FC3874718980"/>
+                  <pb n="37" facs="unknown:022684_0037_0FB9FC3874718980"/>
                   <head>DEATH SONG.</head>
                   <lg>
                      <l>REAR'D <hi>midst the war-empurpled plain,</hi>
@@ -1318,7 +1318,7 @@ How could the wretch, who caus'd thy pain,</l>
                   <l>Whose ready hands the suff'ring victim loose.</l>
                </lg>
                <lg>
-                  <pb n="38" facs="tcp:022684_0038_0FB9FC3FDBBF93A0"/>
+                  <pb n="38" facs="unknown:022684_0038_0FB9FC3FDBBF93A0"/>
                   <l>Around his feet the young deliv'rer clings;</l>
                   <l>It is <hi>Ouâbi!</hi> greatest! first of men!</l>
                   <l>The song of death the dauntless sachem sings,</l>
@@ -1355,7 +1355,7 @@ How could the wretch, who caus'd thy pain,</l>
                   <l>He drives the wild relentless brood along.</l>
                </lg>
                <lg>
-                  <pb n="39" facs="tcp:022684_0039_0FB9FC420135CC98"/>
+                  <pb n="39" facs="unknown:022684_0039_0FB9FC420135CC98"/>
                   <l>Pale horror stalks, and swift destruction reigns,</l>
                   <l>Carnage and death pollute the ruin'd glade,</l>
                   <l>'Till nature's weari'd arm a respite gains,</l>
@@ -1363,7 +1363,7 @@ How could the wretch, who caus'd thy pain,</l>
                </lg>
             </div>
             <div n="4" type="canto">
-               <pb n="40" facs="tcp:022684_0040_0FB9FC45A91F5FD0"/>
+               <pb n="40" facs="unknown:022684_0040_0FB9FC45A91F5FD0"/>
                <head>CANTO IV.</head>
                <lg>
                   <l>WHILE the bent forest drops the chrystal tear,</l>
@@ -1397,7 +1397,7 @@ How could the wretch, who caus'd thy pain,</l>
                   <l>Thro' the slow moments of the ling'ring day:</l>
                </lg>
                <lg>
-                  <pb n="41" facs="tcp:022684_0041_0FB9FC46A0B5DEF0"/>
+                  <pb n="41" facs="unknown:022684_0041_0FB9FC46A0B5DEF0"/>
                   <l>'Till time, whom happy lovers form'd with wings,</l>
                   <l>To his own plains the matchless chief restores;</l>
                   <l>Around his neck the wild <hi>Azâkia</hi> clings,</l>
@@ -1436,7 +1436,7 @@ How could the wretch, who caus'd thy pain,</l>
                      <l>When sunk in blest oblivious night,</l>
                      <l>Rais'd to the sorrows of the light,</l>
                      <l>
-                        <pb n="42" facs="tcp:022684_0042_0FB9FC4C34F9C098"/>
+                        <pb n="42" facs="unknown:022684_0042_0FB9FC4C34F9C098"/>
 The life, I scorn'd, they basely gave,</l>
                      <l>And dar'd to claim me as a slave,</l>
                      <l>To threat me with the darts of pain,</l>
@@ -1468,7 +1468,7 @@ The life, I scorn'd, they basely gave,</l>
                      <l>This grateful heart that hand bestows,</l>
                      <l>Which not to shun a life of woes,</l>
                      <l>
-                        <pb n="43" facs="tcp:022684_0043_0FB9FC4C9B61B078"/>
+                        <pb n="43" facs="unknown:022684_0043_0FB9FC4C9B61B078"/>
 Which not to gain undying fame,</l>
                      <l>To save me from the <hi>Hurons'</hi> flame,</l>
                      <l>Would this fond bleeding breast resign,</l>
@@ -1501,7 +1501,7 @@ Which not to gain undying fame,</l>
                      <l>Tho' to that arm my life was due,</l>
                      <l>And ev'ry bliss deriv'd from you,</l>
                      <l>
-                        <pb n="44" facs="tcp:022684_0044_0FB9FC52B5DCC1E0"/>
+                        <pb n="44" facs="unknown:022684_0044_0FB9FC52B5DCC1E0"/>
 By each perfidious art I strove</l>
                      <l>To win the bright <hi>Azâkia's</hi> love,</l>
                      <l>With ceaseless passion sought to gain</l>
@@ -1537,7 +1537,7 @@ By each perfidious art I strove</l>
                      <l>It lifts its bosom to the day,</l>
                      <l>Unsullied as the solar ray.</l>
                      <l>
-                        <pb n="45" facs="tcp:022684_0045_0FB9FC55BB3B1218"/>
+                        <pb n="45" facs="unknown:022684_0045_0FB9FC55BB3B1218"/>
 Yet have I sworn by yon swift flood,</l>
                      <l>And by this cloud-envelop'd wood,</l>
                      <l>Ne'er in these war-devoted arms</l>
@@ -1568,7 +1568,7 @@ Yet have I sworn by yon swift flood,</l>
                   </lg>
                </sp>
                <lg>
-                  <pb n="46" facs="tcp:022684_0046_0FB9FC58702A5A50"/>
+                  <pb n="46" facs="unknown:022684_0046_0FB9FC58702A5A50"/>
                   <l>
                      <hi>Azâkia</hi> hears the changeless chief's reply,</l>
                   <l>Now warm'd with hope, now chill'd with icy fear,</l>
@@ -1607,7 +1607,7 @@ Yet have I sworn by yon swift flood,</l>
                   <l>Dart from his eyes, and ev'ry accent warm.</l>
                </lg>
                <lg>
-                  <pb n="47" facs="tcp:022684_0047_0FB9FC5978F93098"/>
+                  <pb n="47" facs="unknown:022684_0047_0FB9FC5978F93098"/>
                   <l>Thus the young hero from victorious war,</l>
                   <l>While the throng'd city swells the full acclaim,</l>
                   <l>Forgets each bleeding friend, each ghastly scar,</l>
@@ -1651,7 +1651,7 @@ Yet have I sworn by yon swift flood,</l>
                   <l>Her great, her lov'd <hi>Ouâbi</hi> falls—he dies!</l>
                </lg>
                <lg>
-                  <pb n="48" facs="tcp:022684_0048_0FB9FC5AEAB39078"/>
+                  <pb n="48" facs="unknown:022684_0048_0FB9FC5AEAB39078"/>
                   <l>OH THOU, whose feeling heart, and ready sigh,</l>
                   <l>On ev'ry grief soft sympathy bestow,</l>
                   <l>Here turn thy blest, benignant, melting eye,</l>
@@ -1690,7 +1690,7 @@ Yet have I sworn by yon swift flood,</l>
                   </lg>
                </sp>
                <lg>
-                  <pb n="49" facs="tcp:022684_0049_0FB9FC62FB02A0E0"/>
+                  <pb n="49" facs="unknown:022684_0049_0FB9FC62FB02A0E0"/>
                   <l>The strong convulsions shake his lab'ring form,</l>
                   <l>Hard, and with pain, the loit'ring blood retires;</l>
                   <l>Thus sinks the oak, when loud tornados storm,</l>
@@ -1720,7 +1720,7 @@ Yet have I sworn by yon swift flood,</l>
                   <l>The lustral coin<note n="‡" place="bottom">They not only believe in the immortality of the soul, but also of the bodies of men and animals, and even of their warlike arms, and other inanimate things; and for this reason it is a custom with them to bury with their chiefs, his hatchet at his feet, with the handle perpendicular, his bow unstrung over his head, and a coin (made, according to Will<g ref="char:EOLhyphen"/>iam Penn, of a fish's bone highly polished) in his hand.</note> adorns his lifeless hands!</l>
                </lg>
                <lg>
-                  <pb n="50" facs="tcp:022684_0050_0FB9FC6615580510"/>
+                  <pb n="50" facs="unknown:022684_0050_0FB9FC6615580510"/>
                   <l>While to the spot, made holy by his shade,</l>
                   <l>His faithful tribe with annual care return<note n="*" place="bottom">At stated periods the Indians revisit the sepulchres or cemetaries of their chiefs, and perform certain rites and ceremonies not precisely known to the Anglo-Americans. Governor Jefferson, in his Notes, gives one instance of this custom.</note>
                   </l>
@@ -1748,7 +1748,7 @@ Yet have I sworn by yon swift flood,</l>
                   </l>
                   <l>Tho wayward frailty is the lot of man.</l>
                   <l>
-                     <pb n="51" facs="tcp:022684_0051_0FB9FC676E798D70"/>
+                     <pb n="51" facs="unknown:022684_0051_0FB9FC676E798D70"/>
 Dear as ourselves to hold each faithful friend,</l>
                   <l>To tread the path, which INNATE LIGHT inspires,</l>
                   <l>To guard our country's <hi>rites,</hi> her soil defend,</l>
@@ -1759,7 +1759,7 @@ Dear as ourselves to hold each faithful friend,</l>
       </body>
       <back>
          <div type="poem">
-            <pb n="52" facs="tcp:022684_0052_0FB9FC69DC7A7F30"/>
+            <pb n="52" facs="unknown:022684_0052_0FB9FC69DC7A7F30"/>
             <head>LINES, Addressed to the inimitable AUTHOR of the POEMS under the Signa<g ref="char:EOLhyphen"/>ture of DELLA CRUSCA.</head>
             <lg>
                <l>ACROSS the vast Atlantic tide,</l>
